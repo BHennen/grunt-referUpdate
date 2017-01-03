@@ -1,5 +1,5 @@
 {
-  "name": "grunt-referUpdate",
+  "name": "grunt-referupdate",
   "description": "Update references only if the referenced file exists, based on files you choose.",
   "version": "0.1.0",
   "homepage": "",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/BHennen/grunt-referupdate"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/BHennen/grunt-referupdate/issues"
   },
   "licenses": [
     {
@@ -32,6 +32,9 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "references",
+    "file",
+    "update"
   ]
 }
