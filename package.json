@@ -1,7 +1,7 @@
 {
   "name": "grunt-referupdate",
   "description": "Update references only if the referenced file exists, based on files you choose.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "",
   "author": {
     "name": "BHennen"
