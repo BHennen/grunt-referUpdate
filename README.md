@@ -1,4 +1,4 @@
-# grunt-referUpdate
+# grunt-referupdate
 
 > Update references in files of your choice only if the referenced file exists.
 
